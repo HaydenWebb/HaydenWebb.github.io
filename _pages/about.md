@@ -2,7 +2,7 @@
 layout: about
 title: Hayden Webb
 permalink: /
-subtitle: Undergraduate Research (Rice University) & Future Roboticist
+subtitle: Undergraduate Researcher (Rice University) & Future Roboticist
 
 profile:
   align: right
