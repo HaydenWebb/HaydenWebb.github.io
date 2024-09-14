@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Hayden Webb
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Research (Rice University) & Future Roboticist
 
 profile:
   align: right
