@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-The Roller Ringwon 3rd PLace at the [2024 ASME SMRDC](https://sites.google.com/site/asmemrc/design-competition-showcase/about) in Washington DC!
+The Roller Ring won 3rd PLace at the [2024 ASME SMRDC](https://sites.google.com/site/asmemrc/design-competition-showcase/about) in Washington DC!
 
 ---
