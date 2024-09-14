@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: Headshot - Hayden Webb.jpg
+  image: Headshot_Hayden_Webb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>hayden.m.webb@rice.edu</p>
