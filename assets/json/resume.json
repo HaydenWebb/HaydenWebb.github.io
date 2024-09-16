@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Hayden Webb",
+    "label": "Undergraduate Researcher",
+    "image": "",
+    "email": "hayden.m.webb@rice.edu",
+    "url": "webbhayden.com",
+    "summary": "Undergraduate Researcher broadly interested in all things Robotics",
+    "location": {
+      "address": "6100 Main St.",
+      "postalCode": "TX 77005",
+      "city": "Houston",
+      "countryCode": "US",
+      "region": "Texas"
+    }
+  },
+  "education": [
+    {
+      "institution": "Rice University",
+      "location": "Houston, TX",
+      "url": "https://www.rice.edu/",
+      "area": "Mechanical Engineering B.S.",
+      "studyType": "Undergraduate",
+      "startDate": "2021-08",
+      "endDate": "2025-05",
+      "courses": [
+        "Algorithmic Robotics, Engineering Design Studio, Engineering Design Tools, Fundamentals of Robotic Manipulation, Fundamentals of Control Systems, Introduction to Operations Research and Optimization, Heat Transfer, Machines and Mechanisms, Modeling Dynamic Systems, Prototyping & Fabrication, Rigid Body Dynamics, Thermodynamics"
+      ]
+    }
+  ],
+  "Research Interests": [
+    {
+      "name": "Interests",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Robotics", "Mechatronics", "Manipulation", "Biomechanics", "Engineering Design", "Augmentation"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Robust In-Hand Manipulation for Parallel Jaw Grippers through Remote Center of Compliance and Active Surfaces",
+      "publisher": "In Progress",
+      "releaseDate": "2024-12",
+      "summary": [
+        "Designing a robot hand for parallel jaw grippers to provide full spatial manipulation through the use of active surfaces, compliant fin-rays, and a remote center of compliance (RCC) beam system.",
+        "Developing a P-control manipulation algorithm utilizing force primitives to parameterize and test the hand’s manipulation capabilities for objects of variable geometry"
+      ]
+    },
+    {
+      "name": "Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces",
+      "publisher": "arXiv",
+      "releaseDate": "2024-09-17",
+      "url": "https://arxiv.org/abs/2403.13132",
+      "summary": [
+        "Designed in-hand manipulator for both human & robotic grasping systems for differential, non-holonomic, and full spatial manipulation.",
+        "Developed a generalized active surface-based motion model for arbitrary geometry objects"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "name": "Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces",
+      "publisher": "US Provisional Patent",
+      "releaseDate": "2024-07-03"
+    }
+  ],
+  "awards": [
+    {
+      "title": "3rd Place, Student Mechanism and Robot Design Competition (SMRDC)",
+      "date": "2024-08",
+      "awarder": "American Society of Mechanical Engineers (ASME)",
+      "url": "https://sites.google.com/site/asmemrc/design-competition-showcase/about"
+    },
+    {
+      "title": "Asme Student Financial Support Award",
+      "date": "2024-06",
+      "awarder": "American Society of Mechanical Engineers (ASME)",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "Technical Skills": [
+    {
+      "name": "CAD Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Solidworks", "Onshape", "Fusion 360"]
+    },
+    {
+      "name": "Programming Language",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "ROS", "C++", "Matlab"]
+    },
+    {
+      "name": "Hardware",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["3D Printing", "Product Design and Manufacturing", "Microcontroller (Arduino)", "Metalworking"]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Microsoft Office (Word, Excel, Powerpoint)", "LaTeX"]
+    }
+  ],
+  "Selected Projects": [
+    {
+      "name": "Electronic Prony Brake Torquemeter",
+      "publisher": "Rice Mechanical Engineering Department",
+      "releaseDate": "2024-08",
+      "summary": [
+        "Designed and developed multiple functional 3D-Printed Prony Brakes to mechanically test the concepts of dynamic torque, speed, and power through inset motors and load cells.",
+        "Built an electronic subsystem consisting of a photo interrupter, Arduino microcontroller, and signal amplifier to calculate the torque and RPM of a motor for use in an upper level MECH course."
+      ]
+    },
+    {
+      "name": "Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces",
+      "publisher": "Engineering Design Coursework",
+      "releaseDate": "2022-05",
+      "summary": [
+        "Developed a convective body cooling suit for individuals to wear during 95+% humidity to cool down.",
+        "Designed a water-driven cooling subsystem with water-blocks located at high-temperature regions in the body to dissipate heat more effectively from the body.",
+        "Optimized design using calculations of  heat dissipation for intended use case in nominal human subjects."
+      ]
+    },
+    {
+      "name": "Grasping Aid Device for Arthrogryposis Multiplex Congenita (AMC)",
+      "publisher": "Engineering Design Coursework",
+      "releaseDate": "2021-08 - 2021-12",
+      "summary": [
+        "Manufactured an underactuated robotic glove for performing power & precision grasps in daily activities.",
+        "Built and assembled cable-driven mechanism for furling and unfurling of fingers."
+      ]
+    }
+  ],
+  "Technical Experience": [
+    {
+      "name": "Co-President",
+      "publisher": "Rice Robotics Club",
+      "releaseDate": "2023-05 - 2024-05",
+      "summary": [
+        "Managed and aided 10+ subteams and 50+ students on the development of various robotics projects",
+        "Developed new safety & testing procedures for R&D and Combat Robotics subteams",
+        "Organized and instructed several workshops, talks, and presentations on robotics and engineering skills"
+      ]
+    },
+    {
+      "name": "Team Lead, Mirrored Robot Arm Subteam",
+      "publisher": "Rice Robotics Club",
+      "releaseDate": "2022-05 - 2023-05",
+      "summary": [
+        "Led and built the mechanism manufacturing for a 6-DoF underactuated robot hand and arm",
+        "Integrated designed components with electronics package to allow for mirroring of human movement"
+      ]
+    },
+    {
+      "name": "Team Lead, Highschool Aerospace Scholar",
+      "publisher": "National Aeronautics and Space Administration (NASA)",
+      "releaseDate": "2019-10 - 2020-07",
+      "summary": [
+        "Led 20+ students on the design of a theoretical human landing system between Gateway Space Station and the lunar surface utilizing integrated CAD environment",
+        "Collaborated with other teams to integrate Lunar Lander into theoretically designed Gateway Space Station for mock Artemis Mission"
+      ]
+    }
+  ],
+  "Teaching Experience": [
+    {
+      "name": "Head Teaching Assistant (ENGI 210 - Prototyping and Fabrication)",
+      "publisher": "Rice Makerspace, Oshman Engineering Design Kitchen (OEDK)",
+      "releaseDate": "2023-01 - Present",
+      "summary": [
+        "Taught material, hosted tutorials, and led workshops on engineering tools and fabrication methods",
+        "Assisted 30+ undergraduate & graduate students with team projects and individual competencies"
+      ]
+    },
+    {
+      "name": "Teaching Assistant (MECH 310 - Rigid Body Dynamics)",
+      "publisher": "Rice Mechanical Engineering Department",
+      "releaseDate": "2024-01 - 2024-05",
+      "summary": "Assisted with teaching and grading of material for 70+ undergraduate students"
+    },
+    {
+      "name": "IBB Summer Academy Assistant",
+      "publisher": "Rice Department of Innovation",
+      "releaseDate": "2022-06",
+      "summary": "Led week-long courses for high school students on engineering design tools, devices, and processes"
+    }
+  ],
+  "Relevant Coursework": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ]
+}
