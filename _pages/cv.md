@@ -1,12 +1,11 @@
 ---
-layout: page
-permalink: /cv/
+layout: cv
+permalink: /cv_old/
 title: cv
+nav: false
+nav_order: 5
+cv_pdf: Webb_CV.pdf
 description:
-nav: true
-nav_order: 6
+toc:
+  sidebar: left
 ---
-
-{% include base_path %}
-
-<embed src="/assets/pdf/Webb_CV.pdf" width="800px" height="2100px" />
