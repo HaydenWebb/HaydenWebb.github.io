@@ -1,81 +1,24 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Roller Ring
+description: modular wearable in-hand manipulator
+img: assets/img/roller_ring_promotional.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div style="text-align: center;">
+  <video width="640" height="480" controls>
+    <source src="/assets/video/roller_ring_video.mp4" type="video/mp4">
+  </video>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Abstract ###
+In-hand manipulation is a crucial ability for reorienting and repositioning objects within grasps. The main challenges in this are not only the complexity of the computational models, but also the risks of grasp instability caused by active finger motions, such as rolling, sliding, breaking, and remaking contacts. This paper presents the development of the Roller Ring (RR), a modular robotic attachment with active surfaces that is wearable by both robot and human hands to manipulate without lifting a finger. By installing the angled RRs on hands, such that their spatial motions are not colinear, we derive a general differential motion model for manipulating objects. Our motion model shows that complete in-hand manipulation skill sets can be provided by as few as only 2 RRs through non-holonomic object motions, while more RRs can enable enhanced manipulation dexterity with fewer motion constraints. Through extensive experiments, we test the RRs on both a robot hand and a human hand to evaluate their manipulation capabilities. We show that the RRs can be employed to manipulate arbitrary object shapes to provide dexterous in-hand manipulation. Paper can be found [here](https://arxiv.org/abs/2403.13132) and citation here {% cite webb2024roller %}.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Personal Contribution
+Developed the mechanical design of the Roller Ring as well as the manipulation algorithms to create a device capable of optimally manipulating objects in 3D space when affixed to both robot & human grasping systems. Code base & robot hand for the test environment came from the [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/) and was further modified to accommodate the Roller Ring components.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<img title="a title" alt="Alt text" src="/assets/pdf/Roller_Ring_Poster_[ASME_SMRDC].pdf">
