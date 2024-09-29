@@ -27,5 +27,5 @@ In-hand manipulation is a crucial ability for reorienting and repositioning obje
 Developed the mechanical design of the Roller Ring as well as the manipulation algorithms to create a device capable of optimally manipulating objects in 3D space when affixed to both robot & human grasping systems. Code base & robot hand for the test environment came from the [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/) and was further modified to accommodate the Roller Ring components. <br>
 
 ### Poster
-<img title="a title" alt="Alt text" src="/assets/img/Roller_Ring_Poster_[site].png">
+<img title="a title" alt="Alt text" src="/assets/img/Roller_Ring_Poster_[site].png" width="864" height = "648">
 
