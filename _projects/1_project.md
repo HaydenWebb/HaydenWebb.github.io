@@ -13,6 +13,7 @@ related_publications: true
     <source src="/assets/video/roller_ring_video.mp4" type="video/mp4">
   </video>
 </div>
+<span style="color: red; font-weight: bold;">Award: 3rd Place SMRDC Undergraduate Division</span>
 
 ### Abstract
 
@@ -22,4 +23,6 @@ In-hand manipulation is a crucial ability for reorienting and repositioning obje
 
 Developed the mechanical design of the Roller Ring as well as the manipulation algorithms to create a device capable of optimally manipulating objects in 3D space when affixed to both robot & human grasping systems. Code base & robot hand for the test environment came from the [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/) and was further modified to accommodate the Roller Ring components.
 
-<img title="a title" alt="Alt text" src="/assets/pdf/Roller_Ring_Poster_[ASME_SMRDC].pdf">
+### Poster
+
+<embed src="/assets/pdf/Roller_Ring_Poster_[ASME_SMRDC].pdf" width="864" height="648" />
