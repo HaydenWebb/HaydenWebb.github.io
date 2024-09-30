@@ -3,7 +3,7 @@ layout: page
 title: Body Cooling Suit
 description: wearable heat protection during high humidity
 img: assets/img/hot_ones_promotional.png
-importance: 1
+importance: 2
 category: others
 ---
 
