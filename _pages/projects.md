@@ -5,7 +5,7 @@ permalink: /projects/
 description: collection of the work I've done across my career
 nav: true
 nav_order: 3
-display_categories: [research, coursework]
+display_categories: [research, selected projects]
 horizontal: false
 ---
 
