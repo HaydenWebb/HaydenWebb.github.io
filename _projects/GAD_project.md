@@ -3,7 +3,7 @@ layout: page
 title: Grasping Aid Device
 description: Device to help prehensile motions
 img: assets/img/Grasp_Assist_Promotional.png
-importance: 2
+importance: 3
 category: others
 ---
 
