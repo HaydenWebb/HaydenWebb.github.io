@@ -4,7 +4,7 @@ title: Body Cooling Suit
 description: wearable heat protection during high humidity
 img: assets/img/hot_ones_promotional.png
 importance: 2
-category: selected projects
+category: others
 giscus_comments: true
 ---
 
