@@ -5,7 +5,6 @@ description: wearable heat protection during high humidity
 img: assets/img/hot_ones_promotional.png
 importance: 2
 category: others
-giscus_comments: true
 ---
 
 <div style="text-align: center;">
