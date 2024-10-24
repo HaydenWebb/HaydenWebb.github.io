@@ -3,7 +3,7 @@ layout: page
 title: Roller Ring
 description: modular wearable in-hand manipulator
 img: assets/img/roller_ring_promotional.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---
@@ -16,6 +16,9 @@ related_publications: true
 
 <div style="text-align: center;">
   <span style="color: red; font-weight: normal;">Award: 3rd Place SMRDC Undergraduate Division</span>
+</div> <br>
+<div style="text-align: center;">
+  <span style="color: red; font-weight: normal;">Under Review: International Conference on Robotics and Automation (ICRA 2025)</span>
 </div>
 
 ### Abstract
