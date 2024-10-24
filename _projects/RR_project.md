@@ -16,7 +16,7 @@ related_publications: true
 
 <div style="text-align: center;">
   <span style="color: red; font-weight: normal;">Award: 3rd Place SMRDC Undergraduate Division</span>
-</div> <br>
+</div> 
 <div style="text-align: center;">
   <span style="color: red; font-weight: normal;">Under Review: International Conference on Robotics and Automation (ICRA 2025)</span>
 </div>
