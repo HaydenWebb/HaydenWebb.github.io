@@ -7,7 +7,7 @@ importance: 1
 category: others
 ---
 
-<img title="a title" alt="Alt text" src="/assets/img/PB_Image.png" width="864" height = "648">
+<img title="a title" alt="Alt text" src="/assets/img/PB_Image.png" width="460" height = "460">
 
 ### Description
 
