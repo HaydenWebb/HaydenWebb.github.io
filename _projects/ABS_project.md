@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automated Biosensor Screener
-description: equipment for determining motor parameterization
+description: automated device for fabricating biosensors
 img: assets/img/ABS_Promotional.png
 importance: 1
 category: others
