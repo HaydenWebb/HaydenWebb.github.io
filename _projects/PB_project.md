@@ -3,11 +3,9 @@ layout: page
 title: Electronic Prony Brake
 description: equipment for determining motor parameterization
 img: assets/img/PB_promotional.png
-importance: 1
+importance: 2
 category: others
 ---
-
-
 
 ### Description
 
