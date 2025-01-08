@@ -19,4 +19,4 @@ My team was tasked with creating a deployable cooling device that is capable of 
 
 ### Poster
 
-<img title="a title" alt="Alt text" src="/assets/img/Hot_Ones_Poster.png" width="864" height = "648">
+<img title="Hot Ones Poster" alt="Alt text" src="/assets/img/Hot_Ones_Poster.png" width="864" height = "648">

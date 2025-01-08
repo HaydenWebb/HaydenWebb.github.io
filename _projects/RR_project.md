@@ -31,4 +31,4 @@ Developed the mechanical design of the Roller Ring as well as the manipulation a
 
 ### Poster
 
-<img title="a title" alt="Alt text" src="/assets/img/Roller_Ring_Poster_[site].png" width="864" height = "648">
+<img title="Roller Ring Poster" alt="Alt text" src="/assets/img/Roller_Ring_Poster_[site].png" width="864" height = "648">
