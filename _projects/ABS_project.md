@@ -13,8 +13,11 @@ category: others
 
 The Sempionatto Research Group develops wearable biosensors that collect and analyze sweat, blood, and other biofluids to monitor the wearer’s health. These wearable sensors must be flexible and thus are made by screen printing the electrode design with a conductive ink. Since existing screen-printing machines are bulky and expensive, the electrodes used in these sensors are often screen-printed by hand, which is time-consuming, inconsistent, and wastes a large amount of ink. The goal of this project is to build a desktop-sized printer that automates this process while minimizing wasted ink. The mid-semester checkpoint that summarizes the work can be found below.
 
-<img title="ABS Repeated Dxf" alt="ABS Repeated DXF" src="/assets/img/ABS_Repeated_DXF.png" width="480" height = "360">
-<img title="ABS Motion Plan" alt="ABS Motion Plan" src="/assets/img/ABS_Motion_Plan.png" width="480" height = "360">
+<div style="display: flex; justify-content: space-between;">
+    <img title="ABS Repeated Dxf" alt="ABS Repeated DXF" src="/assets/img/ABS_Repeated_DXF.png" style="width: 45%; margin-right: 5px;">
+    <img title="ABS Motion Plan" alt="ABS Motion Plan" src="/assets/img/ABS_Motion_Plan.png" style="width: 45%; margin-right: 5px;">
+</div>
+
 
 ### Personal Contribution
 
