@@ -16,8 +16,7 @@ The Sempionatto Research Group develops wearable biosensors that collect and ana
 <div style="display: flex; justify-content: space-between;">
     <img title="ABS Repeated Dxf" alt="ABS Repeated DXF" src="/assets/img/ABS_Repeated_DXF.png" style="width: 45%; margin-right: 5px;">
     <img title="ABS Motion Plan" alt="ABS Motion Plan" src="/assets/img/ABS_Motion_Plan.png" style="width: 45%; margin-right: 5px;">
-</div>
-
+</div> <br>
 
 ### Personal Contribution
 
