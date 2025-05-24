@@ -20,4 +20,4 @@ I am a recent graduate of [Rice University](https://www.rice.edu/) where I obtai
 
  I am broadly interested in bio-mimetic robotics, integrable technology, and mechatronic devices that can be utilized to physically manipulate the world around us, and I explore these various topics in my research. Currently, I am working on the development & design of new forms of robotic in-hand manipulator systems in order to further the gripping and manipulating capabilities of current robot hands.
 
-Additionally, I work for both the [Rice University Mechanical Engineering Department](https://mech.rice.edu/) and [Rice University Oshman Engineering Design Kitchen](https://oedk.rice.edu/) as a Teaching Assistant to further promote and teach Engineering in the Rice undergraduate & graduate community.
+Additionally, I have worked for both the [Rice University Mechanical Engineering Department](https://mech.rice.edu/) and [Rice University Oshman Engineering Design Kitchen](https://oedk.rice.edu/) as a Teaching Assistant to further promote and teach Engineering in the Rice undergraduate & graduate community.
