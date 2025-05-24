@@ -2,14 +2,14 @@
 layout: about
 title: Hayden Webb
 permalink: /
-subtitle: Undergraduate Researcher (Rice University) & Future Roboticist
+subtitle: PhD Student (Cornell University) & Future Roboticist
 
 profile:
   align: right
   image: Headshot_Hayden_Webb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hayden.m.webb@rice.edu</p>
+    <p>hw846@cornell.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
