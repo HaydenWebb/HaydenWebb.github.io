@@ -12,9 +12,12 @@ category: others
 The Sempionatto Research Group develops wearable biosensors that collect and analyze sweat, blood, and other biofluids to monitor the wearer’s health. These wearable sensors must be flexible and thus are made by screen printing the electrode design with a conductive ink. Since existing screen-printing machines are bulky and expensive, the electrodes used in these sensors are often screen-printed by hand, which is time-consuming, inconsistent, and wastes a large amount of ink. Devloped device is low-cost, time-efficient, and has a 95% yield in creating electrodes for biosensors.
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="/assets/img/ABS_Differential.png" alt="ABS Differential" title="ABS Differential" style="max-width: 100%; height: auto; flex: 1;">
-    <img src="/assets/img/ABS_UI.png" alt="ABS UI Example" title="ABS UI Example" style="max-width: 100%; height: auto; flex: 1;">
-    <img src="/assets/img/ABS_Motion_Plan.png" alt="ABS Motion Plan" title="ABS Motion Plan" style="max-width: 100%; height: auto; flex: 1;">
+    <img src="/assets/img/ABS_Differential.png" alt="ABS Differential" title="ABS Differential"
+         style="height: 300px; width: 100%; object-fit: cover;">
+    <img src="/assets/img/ABS_UI.png" alt="ABS UI Example" title="ABS UI Example"
+         style="height: 300px; width: 100%; object-fit: cover;">
+    <img src="/assets/img/ABS_Motion_Plan.png" alt="ABS Motion Plan" title="ABS Motion Plan"
+         style="height: 300px; width: 100%; object-fit: cover;">
 </div>
 
 
