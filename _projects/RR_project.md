@@ -5,7 +5,7 @@ description: modular wearable in-hand manipulator
 img: assets/img/roller_ring_promotional.png
 importance: 2
 category: research
-related_publications: true
+related_publications: false
 ---
 
 <div style="text-align: center;">
