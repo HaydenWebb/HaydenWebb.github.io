@@ -15,11 +15,11 @@ related_publications: false
 </div>
 
 <div style="text-align: center;">
+  <span style="color: red; font-weight: normal;"> Published: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</span>
+</div>
+<div style="text-align: center;">
   <span style="color: red; font-weight: normal;">Award: 3rd Place SMRDC Undergraduate Division</span>
 </div> 
-<div style="text-align: center;">
-  <span style="color: red; font-weight: normal;">Published: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</span>
-</div>
 
 ### Abstract
 
