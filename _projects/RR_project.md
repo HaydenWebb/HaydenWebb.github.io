@@ -34,13 +34,24 @@ Developed the mechanical design of the Roller Ring as well as the manipulation a
 
 <img title="Roller Ring Poster" alt="Alt text" src="/assets/img/Roller_Ring_Poster_[site].png" width="864" height = "648">
 
+### Public Release
+
+If you would like to use the Roller Ring in your own projects, please refer to this repository. All details regarding the hardware, software, and BOM can be found here as well as instructions for construction and operating the device. For future collaborations using this device or improving upon it, please feel free to contact me at the provided email.
+
 ### Citation
+If this project has helped you in your projects or research, you can cite this work with:
 
 ```bibtex
-@misc{2403.13132,
+@inproceedings{2403.13132,
     Author = {Hayden Webb and Podshara Chanrungmaneekul and Shenli Yuan and Kaiyu Hang},
+    booktitle = {2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
     Title = {Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces},
-    Year = {2024},
-    Eprint = {arXiv:2403.13132},
+    Year = {2025},
+    Volume = {},
+    Number = {},
+    Pages = {},
+    keywords = {In-Hand Manipulation; Multifingered Hands},
+    doi = {},
+    Eprint = {arXiv:2403.13132}
 }
 ```
