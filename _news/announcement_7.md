@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I was selected to participate in the [Graduate School Dean’s Scholar Engagement Seminar](https://gradschool.cornell.edu/inclusion/signature-initiatives/graduate-school-deans-scholars/) at [Cornell Univesity](https://www.cornell.edu)
+I was selected to participate in the [Graduate School Dean’s Scholar Engagement Seminar](https://gradschool.cornell.edu/inclusion/signature-initiatives/graduate-school-deans-scholars/) at [Cornell](https://www.cornell.edu)
 
 ---
