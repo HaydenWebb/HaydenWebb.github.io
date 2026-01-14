@@ -51,7 +51,7 @@ If this project has helped you in your projects or research, you can cite this w
     Number = {},
     Pages = {},
     keywords = {In-Hand Manipulation; Multifingered Hands},
-    doi = {},
-    Eprint = {arXiv:2403.13132}
+    doi = {10.1109/IROS60139.2025.11247531},
+    Eprint = {IEEEXplore: 11247531}
 }
 ```
