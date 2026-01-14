@@ -42,16 +42,12 @@ If you would like to use the Roller Ring in your own projects, please refer to t
 If this project has helped you in your projects or research, you can cite this work with:
 
 ```bibtex
-@inproceedings{2403.13132,
-    Author = {Hayden Webb and Podshara Chanrungmaneekul and Shenli Yuan and Kaiyu Hang},
+@inproceedings{webb2025roller,
+    author = {Hayden Webb and Podshara Chanrungmaneekul and Shenli Yuan and Kaiyu Hang},
+    title = {Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces},
     booktitle = {2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-    Title = {Wearable Roller Rings to Augment In-Hand Manipulation through Active Surfaces},
-    Year = {2025},
-    Volume = {},
-    Number = {},
-    Pages = {},
-    keywords = {In-Hand Manipulation; Multifingered Hands},
+    year = {2025},
     doi = {10.1109/IROS60139.2025.11247531},
-    Eprint = {IEEEXplore: 11247531}
+    eprint = {11247531}
 }
 ```
