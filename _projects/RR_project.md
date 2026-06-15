@@ -36,7 +36,7 @@ Developed the mechanical design of the Roller Ring as well as the manipulation a
 
 ### Public Release
 
-If you would like to use the Roller Ring in your own projects, please refer to this repository. All details regarding the hardware, software, and BOM can be found here as well as instructions for construction and operating the device. For future collaborations using this device or improving upon it, please feel free to contact me at the provided email.
+If you would like to use the Roller Ring in your own projects, please refer to [this repository](https://github.com/Rice-RobotPI-Lab/Roller-Rings). All details regarding the hardware, software, and BOM can be found here as well as instructions for construction and operating the device. For future collaborations using this device or improving upon it, please feel free to contact me at the provided email.
 
 ### Citation
 If this project has helped you in your projects or research, you can cite this work with:
@@ -51,3 +51,6 @@ If this project has helped you in your projects or research, you can cite this w
     eprint = {11247531}
 }
 ```
+
+### Patent
+Further information detailing this work's patent information titled "Wearable roller rings to enable robot dexterous in-hand manipulation through active surfaces" can be found [here from the USPTO](https://patents.google.com/patent/US20260008186A1/en).

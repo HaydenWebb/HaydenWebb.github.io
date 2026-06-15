@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2026-05-12 07:59:00-0400
+date: 2026-01-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I have passed my 1st Year [Robotics Qualifying Exam](https://www.duffield.cornell.edu/mae/degree/robotics-phd-requirements/) as the first milestone in my PhD program! 
+My undergraduate work on the [Roller Ring](https://github.com/Rice-RobotPI-Lab/Roller-Rings) was granted a patent through the [US Patent and Trademark Office](https://patents.google.com/patent/US20260008186A1/en)!
 
 ---
